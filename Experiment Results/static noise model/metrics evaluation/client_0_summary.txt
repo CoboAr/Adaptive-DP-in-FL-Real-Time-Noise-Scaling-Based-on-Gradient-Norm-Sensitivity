@@ -1,0 +1,80 @@
+Client 0, Round 1: Class Distribution: Client 0, Round 1 - Class Distribution: {0: 7111, 4: 6993, 1: 8110, 2: 7138, 3: 7363}
+Training Loss = 0.8265, Training Accuracy = 79.94%
+Validation Loss = 0.3437, Validation Accuracy = 91.95%
+Privacy Budget (ε) = 0.20, δ = 1e-5
+
+Client 0, Round 2: Class Distribution: Client 0, Round 2 - Class Distribution: {0: 7119, 4: 7027, 1: 8143, 2: 7119, 3: 7307}
+Training Loss = 0.8258, Training Accuracy = 83.59%
+Validation Loss = 0.3434, Validation Accuracy = 92.14%
+Privacy Budget (ε) = 0.27, δ = 1e-5
+
+Client 0, Round 3: Class Distribution: Client 0, Round 3 - Class Distribution: {0: 7117, 4: 7075, 1: 8106, 2: 7120, 3: 7297}
+Training Loss = 0.8568, Training Accuracy = 84.64%
+Validation Loss = 0.4058, Validation Accuracy = 91.99%
+Privacy Budget (ε) = 0.32, δ = 1e-5
+
+Client 0, Round 4: Class Distribution: Client 0, Round 4 - Class Distribution: {0: 7146, 4: 7038, 1: 8069, 2: 7136, 3: 7326}
+Training Loss = 0.9482, Training Accuracy = 84.80%
+Validation Loss = 0.4189, Validation Accuracy = 92.21%
+Privacy Budget (ε) = 0.36, δ = 1e-5
+
+Client 0, Round 5: Class Distribution: Client 0, Round 5 - Class Distribution: {0: 7094, 4: 7041, 1: 8086, 2: 7173, 3: 7321}
+Training Loss = 0.9705, Training Accuracy = 84.93%
+Validation Loss = 0.4972, Validation Accuracy = 91.83%
+Privacy Budget (ε) = 0.40, δ = 1e-5
+
+Client 0, Round 6: Class Distribution: Client 0, Round 6 - Class Distribution: {0: 7121, 4: 7029, 1: 8029, 2: 7162, 3: 7374}
+Training Loss = 1.0070, Training Accuracy = 85.10%
+Validation Loss = 0.5174, Validation Accuracy = 91.04%
+Privacy Budget (ε) = 0.43, δ = 1e-5
+
+Client 0, Round 7: Class Distribution: Client 0, Round 7 - Class Distribution: {0: 7144, 4: 7014, 1: 8072, 2: 7161, 3: 7324}
+Training Loss = 1.0362, Training Accuracy = 85.10%
+Validation Loss = 0.4717, Validation Accuracy = 91.90%
+Privacy Budget (ε) = 0.47, δ = 1e-5
+
+Client 0, Round 8: Class Distribution: Client 0, Round 8 - Class Distribution: {0: 7125, 4: 6990, 1: 8090, 2: 7132, 3: 7378}
+Training Loss = 0.9885, Training Accuracy = 85.70%
+Validation Loss = 0.4035, Validation Accuracy = 92.58%
+Privacy Budget (ε) = 0.50, δ = 1e-5
+
+Client 0, Round 9: Class Distribution: Client 0, Round 9 - Class Distribution: {0: 7116, 4: 7037, 1: 8084, 2: 7139, 3: 7339}
+Training Loss = 1.0559, Training Accuracy = 85.39%
+Validation Loss = 0.4585, Validation Accuracy = 91.80%
+Privacy Budget (ε) = 0.53, δ = 1e-5
+
+Client 0, Round 10: Class Distribution: Client 0, Round 10 - Class Distribution: {0: 7170, 4: 7022, 1: 8029, 2: 7125, 3: 7369}
+Training Loss = 0.9779, Training Accuracy = 86.52%
+Validation Loss = 0.4739, Validation Accuracy = 92.14%
+Privacy Budget (ε) = 0.55, δ = 1e-5
+
+Client 0, Round 11: Class Distribution: Client 0, Round 11 - Class Distribution: {0: 7099, 4: 7009, 1: 8120, 2: 7173, 3: 7314}
+Training Loss = 1.0349, Training Accuracy = 86.63%
+Validation Loss = 0.5320, Validation Accuracy = 92.55%
+Privacy Budget (ε) = 0.58, δ = 1e-5
+
+Client 0, Round 12: Class Distribution: Client 0, Round 12 - Class Distribution: {0: 7124, 4: 6979, 1: 8116, 2: 7153, 3: 7343}
+Training Loss = 1.0915, Training Accuracy = 86.00%
+Validation Loss = 0.5040, Validation Accuracy = 92.93%
+Privacy Budget (ε) = 0.61, δ = 1e-5
+
+Client 0, Round 13: Class Distribution: Client 0, Round 13 - Class Distribution: {0: 7131, 4: 7045, 1: 8066, 2: 7151, 3: 7322}
+Training Loss = 1.0578, Training Accuracy = 86.62%
+Validation Loss = 0.5485, Validation Accuracy = 92.22%
+Privacy Budget (ε) = 0.63, δ = 1e-5
+
+Client 0, Round 14: Class Distribution: Client 0, Round 14 - Class Distribution: {0: 7118, 4: 6994, 1: 8051, 2: 7167, 3: 7385}
+Training Loss = 1.0832, Training Accuracy = 86.11%
+Validation Loss = 0.4851, Validation Accuracy = 92.33%
+Privacy Budget (ε) = 0.65, δ = 1e-5
+
+Client 0, Round 15: Class Distribution: Client 0, Round 15 - Class Distribution: {0: 7101, 4: 6951, 1: 8160, 2: 7134, 3: 7369}
+Training Loss = 1.0907, Training Accuracy = 86.38%
+Validation Loss = 0.5325, Validation Accuracy = 92.24%
+Privacy Budget (ε) = 0.68, δ = 1e-5
+
+Client 0, Round 16: Class Distribution: Client 0, Round 16 - Class Distribution: {0: 7109, 4: 7037, 1: 8114, 2: 7117, 3: 7338}
+Training Loss = 1.1186, Training Accuracy = 86.22%
+Validation Loss = 0.5524, Validation Accuracy = 92.54%
+Privacy Budget (ε) = 0.70, δ = 1e-5
+

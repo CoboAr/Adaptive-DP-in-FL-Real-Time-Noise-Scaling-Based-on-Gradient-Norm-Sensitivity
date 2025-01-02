@@ -1,0 +1,10 @@
+flwr==1.14.0
+grpcio==1.62.1
+matplotlib==3.8.0
+numpy>=1.26,<2.0
+opacus==1.5.2
+pandas==2.2.3
+Pillow==11.0.0
+scipy==1.14.1
+torch==2.4.1
+torchvision==0.19.1

@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.coverage
+.cache
+.nosync
+
+# Logs and debugging
+*.log
+*.out
+*.err
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+
+# Dataset files (optional: remove if you want to track datasets in Git)
+dataset/
+*.idx3-ubyte
+*.idx1-ubyte
+
+# Local settings
+*.env
+.env/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Global macOS exclusions
+.DS_Store
+*.DS_Store

@@ -1,0 +1,75 @@
+Client 0, Round 1: Class Distribution: Client 0, Round 1 - Class Distribution: {0: 7116, 4: 6962, 1: 8131, 2: 7160, 3: 7346}
+Training Loss = 0.8136, Training Accuracy = 75.17%
+Validation Loss = 0.3177, Validation Accuracy = 90.73%
+Privacy Budget (ε) = 0.19, δ = 1e-5
+
+Client 0, Round 2: Class Distribution: Client 0, Round 1 - Class Distribution: {0: 7116, 4: 6962, 1: 8131, 2: 7160, 3: 7346}
+Training Loss = 0.5866, Training Accuracy = 82.27%
+Validation Loss = 0.2685, Validation Accuracy = 92.18%
+Privacy Budget (ε) = 0.19, δ = 1e-5
+
+Client 0, Round 3: Class Distribution: Client 0, Round 2 - Class Distribution: {0: 7091, 4: 7044, 1: 8126, 2: 7132, 3: 7322}
+Training Loss = 0.3576, Training Accuracy = 89.14%
+Validation Loss = 0.1863, Validation Accuracy = 94.23%
+Privacy Budget (ε) = 1.28, δ = 1e-5
+
+Client 0, Round 4: Class Distribution: Client 0, Round 2 - Class Distribution: {0: 7091, 4: 7044, 1: 8126, 2: 7132, 3: 7322}
+Training Loss = 0.2760, Training Accuracy = 91.73%
+Validation Loss = 0.1536, Validation Accuracy = 95.29%
+Privacy Budget (ε) = 2.36, δ = 1e-5
+
+Client 0, Round 5: Class Distribution: Client 0, Round 3 - Class Distribution: {0: 7097, 4: 7029, 1: 8097, 2: 7169, 3: 7323}
+Training Loss = 0.2468, Training Accuracy = 92.99%
+Validation Loss = 0.1262, Validation Accuracy = 95.68%
+Privacy Budget (ε) = 3.44, δ = 1e-5
+
+Client 0, Round 6: Class Distribution: Client 0, Round 3 - Class Distribution: {0: 7097, 4: 7029, 1: 8097, 2: 7169, 3: 7323}
+Training Loss = 0.2334, Training Accuracy = 93.57%
+Validation Loss = 0.1179, Validation Accuracy = 96.19%
+Privacy Budget (ε) = 4.52, δ = 1e-5
+
+Client 0, Round 7: Class Distribution: Client 0, Round 4 - Class Distribution: {0: 7095, 4: 7047, 1: 8046, 2: 7140, 3: 7387}
+Training Loss = 0.2187, Training Accuracy = 94.13%
+Validation Loss = 0.1087, Validation Accuracy = 96.69%
+Privacy Budget (ε) = 5.61, δ = 1e-5
+
+Client 0, Round 8: Class Distribution: Client 0, Round 4 - Class Distribution: {0: 7095, 4: 7047, 1: 8046, 2: 7140, 3: 7387}
+Training Loss = 0.2170, Training Accuracy = 94.25%
+Validation Loss = 0.0963, Validation Accuracy = 96.98%
+Privacy Budget (ε) = 6.69, δ = 1e-5
+
+Client 0, Round 9: Class Distribution: Client 0, Round 5 - Class Distribution: {0: 7106, 4: 6964, 1: 8124, 2: 7125, 3: 7396}
+Training Loss = 0.2086, Training Accuracy = 94.61%
+Validation Loss = 0.0965, Validation Accuracy = 97.04%
+Privacy Budget (ε) = 7.77, δ = 1e-5
+
+Client 0, Round 10: Class Distribution: Client 0, Round 5 - Class Distribution: {0: 7106, 4: 6964, 1: 8124, 2: 7125, 3: 7396}
+Training Loss = 0.2002, Training Accuracy = 94.92%
+Validation Loss = 0.0991, Validation Accuracy = 96.81%
+Privacy Budget (ε) = 8.85, δ = 1e-5
+
+Client 0, Round 11: Class Distribution: Client 0, Round 6 - Class Distribution: {0: 7108, 4: 7021, 1: 8068, 2: 7120, 3: 7398}
+Training Loss = 0.1969, Training Accuracy = 94.91%
+Validation Loss = 0.0851, Validation Accuracy = 97.51%
+Privacy Budget (ε) = 9.94, δ = 1e-5
+
+Client 0, Round 12: Class Distribution: Client 0, Round 6 - Class Distribution: {0: 7108, 4: 7021, 1: 8068, 2: 7120, 3: 7398}
+Training Loss = 0.1924, Training Accuracy = 94.99%
+Validation Loss = 0.0806, Validation Accuracy = 97.32%
+Privacy Budget (ε) = 11.02, δ = 1e-5
+
+Client 0, Round 13: Class Distribution: Client 0, Round 7 - Class Distribution: {0: 7085, 4: 7016, 1: 8087, 2: 7150, 3: 7377}
+Training Loss = 0.1912, Training Accuracy = 95.03%
+Validation Loss = 0.0802, Validation Accuracy = 97.43%
+Privacy Budget (ε) = 12.10, δ = 1e-5
+
+Client 0, Round 14: Class Distribution: Client 0, Round 7 - Class Distribution: {0: 7085, 4: 7016, 1: 8087, 2: 7150, 3: 7377}
+Training Loss = 0.1824, Training Accuracy = 95.52%
+Validation Loss = 0.0796, Validation Accuracy = 97.29%
+Privacy Budget (ε) = 13.18, δ = 1e-5
+
+Client 0, Round 15: Class Distribution: Client 0, Round 8 - Class Distribution: {0: 7128, 4: 6992, 1: 8082, 2: 7138, 3: 7375}
+Training Loss = 0.1811, Training Accuracy = 95.45%
+Validation Loss = 0.0839, Validation Accuracy = 97.48%
+Privacy Budget (ε) = 14.27, δ = 1e-5
+

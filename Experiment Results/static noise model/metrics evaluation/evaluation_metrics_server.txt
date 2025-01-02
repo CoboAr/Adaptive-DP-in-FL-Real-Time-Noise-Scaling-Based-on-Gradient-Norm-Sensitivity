@@ -1,0 +1,16 @@
+Round 1: Loss = 1.2300, Accuracy = 0.5619, Max ε = 0.21, Total ε = 0.21
+Round 2: Loss = 1.3103, Accuracy = 0.6019, Max ε = 0.27, Total ε = 0.48
+Round 3: Loss = 1.1977, Accuracy = 0.6722, Max ε = 0.32, Total ε = 0.80
+Round 4: Loss = 1.3471, Accuracy = 0.6731, Max ε = 0.37, Total ε = 1.17
+Round 5: Loss = 1.0958, Accuracy = 0.7298, Max ε = 0.41, Total ε = 1.58
+Round 6: Loss = 1.5231, Accuracy = 0.6847, Max ε = 0.44, Total ε = 2.02
+Round 7: Loss = 1.1439, Accuracy = 0.7307, Max ε = 0.48, Total ε = 2.50
+Round 8: Loss = 1.2937, Accuracy = 0.7064, Max ε = 0.51, Total ε = 3.01
+Round 9: Loss = 1.2173, Accuracy = 0.7367, Max ε = 0.54, Total ε = 3.55
+Round 10: Loss = 1.3639, Accuracy = 0.7215, Max ε = 0.57, Total ε = 4.12
+Round 11: Loss = 1.4228, Accuracy = 0.7262, Max ε = 0.59, Total ε = 4.71
+Round 12: Loss = 1.2749, Accuracy = 0.7294, Max ε = 0.62, Total ε = 5.33
+Round 13: Loss = 1.2979, Accuracy = 0.7453, Max ε = 0.64, Total ε = 5.97
+Round 14: Loss = 1.5688, Accuracy = 0.6820, Max ε = 0.67, Total ε = 6.64
+Round 15: Loss = 2.0515, Accuracy = 0.6570, Max ε = 0.69, Total ε = 7.34
+Round 16: Loss = 1.3616, Accuracy = 0.7250, Max ε = 0.72, Total ε = 8.05
